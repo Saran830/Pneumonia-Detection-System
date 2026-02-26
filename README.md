@@ -33,6 +33,7 @@ This approach leverages powerful pre-trained visual features while keeping train
 Dataset Structure
 
 The dataset follows the directory structure required by `flow_from_directory():
+
 chest_xray/
 │
 ├── train/
@@ -94,6 +95,7 @@ Output Interpretation:
 1 → Normal
 
 Training output:
+
 522/522 [==============================]
 loss: 0.7033  
 accuracy: 0.5000  
